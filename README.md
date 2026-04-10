@@ -6,11 +6,11 @@
 
 ## 🧠 About Me
 
-- 📱 Building apps using **Flutter**
-- ⚙️ Backend development with **Node.js, Express.js**
-- 🗄️ Working with **MongoDB, SQL**
-- 🔁 Exploring **clean architecture (data / domain / presentation)**
-- 🧩 Learning to design systems — not just write code
+- 📱 Building cross-platform apps using **Flutter**
+- ⚙️ Backend development with **Node.js & Express.js**
+- 🗄️ Working with **MongoDB and SQL databases**
+- 🔁 Applying **clean architecture (data / domain / presentation)**
+- 🧩 Focused on building systems, not just features
 
 I focus on understanding how things work under the hood rather than just making them work.
 
@@ -38,13 +38,11 @@ I focus on understanding how things work under the hood rather than just making 
 
 ## 📌 Current Focus
 
-- Building scalable app architectures
-- Improving backend design and API structure
-- Writing cleaner, more maintainable code
+- Designing scalable application architecture
+- Improving backend structure and API design
+- Writing cleaner, maintainable code
 
 ---
-
-## 🚧 Projects
 
 ## 🚀 Featured Projects
 
@@ -52,7 +50,7 @@ I focus on understanding how things work under the hood rather than just making 
 
 Full-stack application for managing products, users, and transactions.
 
-**Tech:** Flutter, Node.js, Express.js, MongoDB
+**Tech:** Flutter, Node.js, Express.js, MongoDB, SQL
 
 **Highlights:**
 
@@ -60,8 +58,9 @@ Full-stack application for managing products, users, and transactions.
 - Role-based access control
 - Product and cart management
 - Search functionality (name + category)
-- User profile and data handling
 - Razorpay payment integration
+
+🔗 [Repository](https://github.com/AyushMusale/e-commerce_app)
 
 ---
 
@@ -77,24 +76,23 @@ Role-based application for managing student leave requests and approvals.
 - Real-time leave status updates
 - Admin approval/decline system
 - Profile management with image upload
-- Firestore-based live data handling
+
+🔗 [Repository](https://github.com/AyushMusale/Hostel-Leave-App)
 
 ---
 
 ## 📈 Growth Mindset
 
-I aim to:
-
-- Move from "getting things working" → "building things right"
-- Think before coding
-- Understand systems deeply, not just superficially
+- Moving from "getting things working" → "building things right"
+- Thinking before coding
+- Focusing on depth over shortcuts
 
 ---
 
 ## 📫 Connect
 
 - GitHub: https://github.com/your-username
-- LinkedIn:
+- LinkedIn: https://www.linkedin.com/in/ayush-musale-107655327/
 
 ---
 
